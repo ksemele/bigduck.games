@@ -26,7 +26,6 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: bigduck.games
 url: "https://bigduck.games"
-twitter_username: -
 github_username:  ksemele
 
 # Build settings
