@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: bigducks.games
-email: info@bigducks.games
+title: bigduck.games
+email: info@bigduck.games
 description: >-
   Hello.
   bigducks.games under construction
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: bigducks.games
-url: "https://bigducks.games"
+domain: bigduck.games
+url: "https://bigduck.games"
 twitter_username: -
 github_username:  ksemele
 
