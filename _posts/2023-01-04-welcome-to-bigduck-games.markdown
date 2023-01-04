@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to BigDuck Games!"
+title:  "Welcome to BigDuck Games!"
 date:   2023-01-04 18:10:24 +0400
 categories: update
 ---
