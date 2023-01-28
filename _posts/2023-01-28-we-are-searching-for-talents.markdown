@@ -15,4 +15,4 @@ If you are a talented programmer, artist, or other specialist who is interested 
 Thank you for your time and consideration,
 Aleksei
 
-my tg: https://t.me/ksemele
+Feel free to contact me in telegram: [https://t.me/ksemele](https://t.me/ksemele)
