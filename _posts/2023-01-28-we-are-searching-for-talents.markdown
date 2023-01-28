@@ -3,6 +3,7 @@ layout: post
 title:  "We are searching for talents!"
 date:   2023-01-28 13:20:00 +0400
 categories: update
+background: https://upload.wikimedia.org/wikipedia/commons/c/c5/Best_Nature_Picture_of_the_day.jpg
 ---
 Welcome to the world of independent game development! My name is Aleksei and I am a beginner game developer who is passionate about creating unique and engaging gaming experiences.
 

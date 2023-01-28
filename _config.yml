@@ -18,7 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+lang: en-US
 title: bigduck.games
+#title: ""
 email: #info@bigduck.games
 description: >-
   Hello!
@@ -28,12 +30,37 @@ domain: bigduck.games
 url: "https://bigduck.games"
 github_username:  ksemele
 
+## searching engine
+#search: true
+#search_full_content: true
+#search_provider: algolia
+#algolia:
+#  application_id: QB6HVGBSBA
+#  index_name: basically-basic
+#  search_only_api_key: 9d5014e5bbc77372547bce778dfa5663
+#  powered_by: false # true (default)
+
 # Build settings
-theme: minima
-minima:
-  skin: dark
+
+#theme: minima
+# unsupported in minima 2.*
+# https://github.com/jekyll/minima#skins
+#minima:
+#  skin: dark
+
+#remote_theme: zivong/ockham@v0.1.0
+#remote_theme: squarezero/squarezero.github.io@1.0.0
+#remote_theme: supun-io/jekyll-theme-leaf@0.1.0
+#remote_theme: ItsPatrq/minimal-categorized
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+#remote_theme: sharadcodes/jekyll-theme-dark-reader
+
+paginate: 3  # amount of posts to show per page
+paginate_path: /page:num/
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
