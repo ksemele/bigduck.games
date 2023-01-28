@@ -4,5 +4,5 @@
 
 layout: home
 title: ' '
-paginate: true
+
 ---

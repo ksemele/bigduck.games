@@ -55,8 +55,8 @@ github_username:  ksemele
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 #remote_theme: sharadcodes/jekyll-theme-dark-reader
 
-paginate: 3  # amount of posts to show per page
-paginate_path: /page:num/
+#paginate: 3  # amount of posts to show per page
+#paginate_path: /page:num/
 
 plugins:
   - jekyll-feed
