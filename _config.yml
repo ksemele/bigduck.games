@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: bigduck.games
-#email: info@bigduck.games
+email: #info@bigduck.games
 description: >-
   Hello!
   We are bigduck.games
